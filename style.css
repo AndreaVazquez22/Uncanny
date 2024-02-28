@@ -147,3 +147,12 @@ footer{
     font-weight: 200;
     color: rgb(48, 38, 49) ;
 }
+
+.image_prod{
+    width: 20%;
+    border-radius: 50%;
+    margin-top: 20px;
+    justify-content: center;
+
+}
+
